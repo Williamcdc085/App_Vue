@@ -1,2 +1,2 @@
 # App_Vue
- primeira aplicação usando Vue.js
+ Primeira aplicação usando Vue.js
